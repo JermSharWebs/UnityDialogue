@@ -1,0 +1,50 @@
+<script>
+  <dialogue id="1">
+    <speaker>Name of the Speaker</speaker>
+    <speech>Content of the speech.</speech>
+    <option id="1"> // Optional Response 
+      <question></question>
+      <awnser></awnser>
+    </option>
+    <option id="2"> // Optional Response 
+      <question></question>
+      <awnser></awnser>
+    </option>
+    <option id="3"> // Optional Response 
+      <question></question>
+      <awnser></awnser>
+    </option>
+  </dialogue>
+  <dialogue id="2">
+    <speaker>Player</speaker>
+    <speech>Excuse me, could you help us??</speech>
+    <option id="1">
+      <question></question>
+      <awnser></awnser>
+    </option>
+    <option id="2">
+      <question></question>
+      <awnser></awnser>
+    </option>
+    <option id="3">
+      <question></question>
+      <awnser></awnser>
+    </option>
+  </dialogue>
+  <dialogue id="3">
+    <speaker>Senior Student</speaker>
+    <speech>Sure. What's goin' on?</speech>
+    <option id="1">
+      <question>We are looking for  Alejandro Rodrigues, he is professor Mcgonagall’s teaching assistant. Do you know him?</question>
+      <awnser>1</awnser>
+    </option>
+    <option id="2">
+      <question>We need to find a person.</question>
+      <awnser>2</awnser>
+    </option>
+    <option id="3">
+      <question>Do you know where can I find Professor Mcgonagall?</question>
+      <awnser>3</awnser>
+    </option>
+  </dialogue>
+</script>
